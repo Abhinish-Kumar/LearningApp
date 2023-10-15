@@ -1,2 +1,0 @@
-# LearningApp
-Demo learning app 
